@@ -1,0 +1,160 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=0
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=false
+Color=112,111,110
+ColorAmount=-0.9500000000000001
+ColorEffect=0
+ContrastAmount=0.1
+ContrastEffect=0
+Enable=true
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=109,173,194
+BackgroundNormal=50,50,54
+DecorationFocus=135,227,255
+DecorationHover=135,227,255
+ForegroundActive=135,227,255
+ForegroundInactive=242,243,243
+ForegroundLink=135,227,255
+ForegroundNegative=67,205,189
+ForegroundNeutral=95,125,205
+ForegroundNormal=254,254,254
+ForegroundPositive=156,83,198
+ForegroundVisited=127,140,141
+
+[Colors:Complementary]
+BackgroundAlternate=27,27,29
+BackgroundNormal=27,27,29
+DecorationFocus=135,227,255
+DecorationHover=135,227,255
+ForegroundActive=135,227,255
+ForegroundLink=135,227,255
+
+[Colors:Selection]
+BackgroundAlternate=102,167,187
+BackgroundNormal=102,167,187
+DecorationFocus=135,227,255
+DecorationHover=135,227,255
+ForegroundActive=135,227,255
+ForegroundInactive=0,0,0
+ForegroundLink=206,241,255
+ForegroundNegative=67,205,189
+ForegroundNeutral=95,125,205
+ForegroundNormal=0,0,0
+ForegroundPositive=156,83,198
+ForegroundVisited=189,195,199
+
+[Colors:Tooltip]
+BackgroundAlternate=39,39,42
+BackgroundNormal=39,39,42
+DecorationFocus=135,227,255
+DecorationHover=135,227,255
+ForegroundActive=135,227,255
+ForegroundInactive=242,243,243
+ForegroundLink=135,227,255
+ForegroundNegative=67,205,189
+ForegroundNeutral=95,125,205
+ForegroundNormal=252,253,253
+ForegroundPositive=156,83,198
+ForegroundVisited=127,140,141
+
+[Colors:View]
+BackgroundAlternate=27,27,29
+BackgroundNormal=27,27,29
+DecorationFocus=135,227,255
+DecorationHover=135,227,255
+ForegroundActive=135,227,255
+ForegroundInactive=242,243,243
+ForegroundLink=135,227,255
+ForegroundNegative=67,205,189
+ForegroundNeutral=95,125,205
+ForegroundNormal=254,254,254
+ForegroundPositive=156,83,198
+ForegroundVisited=127,140,141
+
+[Colors:Window]
+BackgroundAlternate=27,27,29
+BackgroundNormal=27,27,29
+DecorationFocus=135,227,255
+DecorationHover=135,227,255
+ForegroundActive=135,227,255
+ForegroundInactive=242,243,243
+ForegroundLink=135,227,255
+ForegroundNegative=67,205,189
+ForegroundNeutral=95,125,205
+ForegroundNormal=252,253,253
+ForegroundPositive=156,83,198
+ForegroundVisited=127,140,141
+
+[General]
+AccentColor=135,227,255
+BrowserApplication=brave-browser.desktop
+ColorScheme=Nothing
+ColorSchemeHash=404c9c568102723de6d5694e4902840a6a5076c6
+LastUsedCustomAccentColor=135,227,255
+UseSystemBell=true
+XftAntialias=true
+XftHintStyle=hintslight
+XftSubPixel=rgb
+font=Proxima Nova,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+menuFont=Proxima Nova,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+smallestReadableFont=Proxima Nova,8,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+toolBarFont=Proxima Nova,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+
+[Icons]
+Theme=WhiteSur
+
+[KDE]
+AnimationDurationFactor=0.5
+DefaultDarkLookAndFeel=Moe-Dark
+DefaultLightLookAndFeel=Moe
+DoubleClickInterval=300
+LookAndFeelPackage=org.kde.breezedark.desktop
+ScrollbarLeftClickNavigatesByPage=true
+contrast=4
+frameContrast=0.2
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=false
+Decoration position=2
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=true
+Speedbar Width=140
+View Style=DetailTree
+
+[PreviewSettings]
+EnableRemoteFolderThumbnail=false
+MaximumRemoteSize=0
+
+[Sounds]
+Theme=Blue_Archive_sounds
+
+[WM]
+activeBackground=27,27,29
+activeBlend=27,27,29
+activeFont=Proxima Nova,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+activeForeground=237,240,242
+inactiveBackground=27,27,29
+inactiveBlend=27,27,29
+inactiveForeground=181,182,182

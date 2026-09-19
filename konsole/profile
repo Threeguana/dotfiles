@@ -1,0 +1,27 @@
+[Appearance]
+BorderWhenActive=false
+ColorScheme=Breeze
+DimmValue=35
+Font=Liberation Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+WordModeAscii=false
+
+[Cursor Options]
+CursorShape=1
+UseCustomCursorColor=false
+
+[General]
+DimWhenInactive=true
+InvertSelectionColors=true
+Name=Profile 1
+Parent=FALLBACK/
+TerminalCenter=true
+TerminalMargin=9
+
+[Scrolling]
+ScrollBarPosition=2
+SearchLineOpacity=68
+
+[Terminal Features]
+AnimatingCursorEnabled=false
+BlinkingCursorEnabled=false
+VerticalLine=false
