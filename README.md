@@ -54,7 +54,7 @@ cd ~/dotfiles
 cp fish/config.fish ~/.config/fish/config.fish
 
 # Konsole
-cp konsole/Profile\ 1.profile ~/.local/share/konsole/
+cp konsole/profile ~/.local/share/konsole/
 cp konsole/Breeze.colorscheme ~/.local/share/konsole/
 
 # KDE global settings
